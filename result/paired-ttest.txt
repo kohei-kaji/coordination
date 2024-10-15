@@ -1,0 +1,28 @@
+# predictability paired t-test
+
+no/structure
+t-statistic = 34.930596824160325, p-value = 7.024758707427661e-85
+significance: True
+
+structure/linear
+t-statistic = 195.2584269594484, p-value = 7.707011440754771e-222
+significance: True
+
+no/linear
+t-statistic = 180.19107980564908, p-value = 3.254457524970347e-215
+significance: True
+
+
+# parsability paired t-test
+
+no/structure
+t-statistic = -454.3415787490026, p-value = 1.0030627437478592e-291
+significance: True
+
+structure/linear
+t-statistic = -75.87604134505003, p-value = 1.4220554615263132e-144
+significance: True
+
+no/linear
+t-statistic = -287.08680986336265, p-value = 1.0556152438229866e-253
+significance: True

@@ -1,0 +1,2 @@
+Intersection between upper of linear and lower of structure:  (np.float64(0.18), np.float64(0.49134160367022583))
+Intersection between upper of no and lower of structure:  (np.float64(0.93), np.float64(0.6260639854649146))

@@ -1,0 +1,16 @@
+__pycache__
+.DS_Store
+.venv
+src/memory-surprisal
+src/readingtime
+data/memory-surprisal
+data/readingtime
+result/memory-surprisal
+figure/memory-surprisal
+figure/readingtime
+data/permuted_samples
+data/permuted_splits
+result/f1
+result/parse
+result/surprisal
+result/word-by-word_surp_parseloglik.csv

@@ -1,0 +1,3 @@
+- Download [rnng-pytorch](https://github.com/aistairc/rnng-pytorch) ([Noji and Oseki, 2021](https://aclanthology.org/2021.findings-acl.380/)).
+- `beam_search.py` was provided by Ryo Yoshida. This is a modified version of the original code to calculate the log-likelihood of each parse.
+- `data.py` and `fixed_stack_models.py` include minor bug fixes to the original code.
