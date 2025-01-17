@@ -1,6 +1,7 @@
 # Efficient Communication-Coordination
-This repository contains the code and data for the [CoNLL 2024](https://conll.org/) paper titled "Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination" (Kajikawa et al., 2024).\
-[arXiv](https://arxiv.org/abs/2410.10556)
+This repository contains the code and data for the [CoNLL 2024](https://conll.org/) paper titled "Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination" (Kajikawa et al., 2024; 🏆Best Paper Award).\
+[[Paper link](https://aclanthology.org/2024.conll-1.23/)]
+[[arXiv](https://arxiv.org/abs/2410.10556)]
 
 For any questions, please contact:\
 kohei.kajikawa1223@gmail.com
@@ -19,22 +20,24 @@ Additionally, download the following repositories:
     Ryo Yoshida (p.c.) provided me the code for calculating the logliks of each parse. Thanks Ryo!
 
 
-The data and results we used are available as zip files under the `data` and `result` directories, respectively.
+The data and results we used are available as zip files at [this google drive](https://drive.google.com/drive/folders/12mRPlKXXQKueYbITQYDkeRKlHvyMrS8T?usp=sharing).
 
 ## Citation
 ```
-@inproceedings{kajikawa-etal-2024-is,
+@inproceedings{kajikawa-etal-2024-structure,
     title = "Is Structure Dependence Shaped for Efficient Communication?: A Case Study on Coordination",
     author = "Kajikawa, Kohei  and
-              Kubota, Yusuke  and
-              Oseki, Yohei",
-    booktitle = "Proceedings of the 29th Conference on Computational Natural Language Learning (CoNLL)",
+      Kubota, Yusuke  and
+      Oseki, Yohei",
+    editor = "Barak, Libby  and
+      Alikhani, Malihe",
+    booktitle = "Proceedings of the 28th Conference on Computational Natural Language Learning",
     month = nov,
     year = "2024",
-    address = "Miami",
+    address = "Miami, FL, USA",
     publisher = "Association for Computational Linguistics",
-    url = "",
-    doi = "",
-    pages = "",
+    url = "https://aclanthology.org/2024.conll-1.23/",
+    doi = "10.18653/v1/2024.conll-1.23",
+    pages = "291--302"
 }
 ```
